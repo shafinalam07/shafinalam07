@@ -1,17 +1,38 @@
 # Hi, I'm Shafin Reyaz Alam! 👋
 
-An aspiring Computer Engineering student passionate about low-level systems programming, Data Structures, and Open Source development.
+I am a Computer Engineering student passionate about exploring low-level systems utilities, mastering Data Structures & Algorithms (DSA), and contributing to open-source software.
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, Java, Python
-- **Core Focus:** Data Structures & Algorithms (DSA), System Utilities, Web Dev
-- **Tools:** VS Code, Git, GitHub, GCC Compiler
 
-## 🚀 GSSoC '26 Focus
-I am actively participating in GSSoC '26 to contribute to:
-- Algorithms & Data Structures implementations in C/Python
-- Core Backend logic and system-level utility tools
+* **Languages:** C, Java, Python
+* **Core Focus:** Data Structures & Algorithms, Systems Logic, Database Management
+* **Tools & Ecosystem:** Git, GitHub, GCC Compiler, VS Code
 
-## 📁 Key Projects
-- [Custom Memory Allocator](https://github.com/shafinalam07/custom-memory-allocator) - A low-level system utility implementing custom `my_malloc` and `my_free` engines from scratch.
-- [Huffman File Compressor](https://github.com/shafinalam07/huffman-file-compressor) - A text compression engine utilizing Binary Trees and self-sorting Min-Heaps.
+---
+
+## 🚀 GSSoC '26 Goals
+I am an aspiring contributor for GirlScript Summer of Code 2026. Once the program begins, I aim to focus on:
+* Optimized Data Structure and Algorithm implementations (C/Java/Python)
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 [Custom Memory Allocator](https://github.com/shafinalam07/custom-memory-allocator)
+* **What it is:** A low-level heap memory manager built completely from scratch in pure C.
+* **How it works:** Replaces standard `malloc` and `free` using a custom 10KB array and a Singly Linked List. Features first-fit block scanning, block splitting to minimize waste, and automatic neighboring block merging (coalescing) upon freeing space.
+
+### 🔹 [Huffman File Compressor](https://github.com/shafinalam07/huffman-file-compressor)
+* **What it is:** A functional text data compression tool utilizing greedy frequency tracking.
+* **How it works:** Implements a custom, self-sorting Min-Heaps queue from scratch to build a binary Huffman Tree. It generates unique, variable-length prefix binary codes to significantly reduce text storage space.
+
+### 🔹 [Stack Expression Checker](https://github.com/shafinalam07/stack-expression-checker)
+* **What it is:** A validation syntax tracking utility built using stack data structures.
+* **How it works:** Parses and scans text strings dynamically to track, match, and catch structural errors or unmatched brackets inside nested expressions.
+
+---
+
+## 🔗 Connect with Me
+* **GitHub Profile:** [github.com/shafinalam07](https://github.com/shafinalam07)
