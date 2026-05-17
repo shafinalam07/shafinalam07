@@ -12,9 +12,13 @@ I am a Computer Engineering student passionate about exploring low-level systems
 
 ---
 
+
 ## 🚀 GSSoC '26 Goals
 I am an aspiring contributor for GirlScript Summer of Code 2026. Once the program begins, I aim to focus on:
 * Optimized Data Structure and Algorithm implementations (C/Java/Python)
+* **Algorithmic Optimizations:** Improving the time and space complexity of existing code logic and sorting routines.
+* **Data Structure Implementations:** Writing clean, scalable, and idiomatic data structure scripts in C, Java, and Python.
+* **Edge-Case Debugging:** Identifying and fixing critical logical flaws, pointer mismanagements, or memory leaks in core repositories.
 
 ---
 
