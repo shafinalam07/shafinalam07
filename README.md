@@ -21,7 +21,6 @@ I am an aspiring contributor for GirlScript Summer of Code 2026. Once the progra
 * **Edge-Case Debugging:** Identifying and fixing critical logical flaws, pointer mismanagements, or memory leaks in core repositories.
 
 ---
-
 ## 📁 Featured Projects
 
 ### 🔹 [Custom Memory Allocator](https://github.com/shafinalam07/custom-memory-allocator)
@@ -35,6 +34,10 @@ I am an aspiring contributor for GirlScript Summer of Code 2026. Once the progra
 ### 🔹 [Stack Expression Checker](https://github.com/shafinalam07/stack-expression-checker)
 * **What it is:** A validation syntax tracking utility built using stack data structures.
 * **How it works:** Parses and scans text strings dynamically to track, match, and catch structural errors or unmatched brackets inside nested expressions.
+
+### 🔹 [Emergency Assistant AI](https://github.com/shafinalam07/emergency-assistant-ai)
+* **What it is:** A fully offline, browser-based assistant for everyday support and high-pressure emergency contexts.
+* **How it works:** Uses WebAssembly (WASM) via `llama.cpp` and ONNX web backends to run small language models (LLMs) and vision models entirely inside the client browser. Features 100% local data privacy, on-device audio transcription (STT/TTS pipelines), and local OCR document parsing.
 
 ---
 
