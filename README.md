@@ -23,8 +23,8 @@ I am an aspiring contributor for GirlScript Summer of Code 2026.I aim to focus o
 ---
 ## 📁 Featured Projects
 ###  🔹 [Self-Hosted Personal Cloud]
-**What it is:** A private cloud storage server built on a Raspberry Pi 3B+ using Docker and Nextcloud — a personal Google Drive alternative with no monthly fees and full data ownership.
-**How it works:** Turns a Raspberry Pi 3B+ into a fully functional network-accessible cloud server. Runs Nextcloud inside a Docker container on Linux, configured entirely from scratch with SSH remote access, swap memory tuning, and local network setup for multi-device access.
+* **What it is:** A private cloud storage server built on a Raspberry Pi 3B+ using Docker and Nextcloud — a personal Google Drive alternative with no monthly fees and full data ownership.
+* **How it works:** Turns a Raspberry Pi 3B+ into a fully functional network-accessible cloud server. Runs Nextcloud inside a Docker container on Linux, configured entirely from scratch with SSH remote access, swap memory tuning, and local network setup for multi-device access.
 
 ### 🔹 [Custom Memory Allocator](https://github.com/shafinalam07/custom-memory-allocator)
 * **What it is:** A low-level heap memory manager built completely from scratch in pure C.
