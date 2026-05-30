@@ -1,4 +1,4 @@
-# Hi, I'm Shafin Reyaz Alam! 👋
+# Hi, I'm Shafin Reyaz Alam! 
 
 I am a Computer Engineering student passionate about exploring low-level systems utilities, mastering Data Structures & Algorithms (DSA), and contributing to open-source software.
 
@@ -14,7 +14,7 @@ I am a Computer Engineering student passionate about exploring low-level systems
 
 
 ## 🚀 GSSoC '26 Goals
-I am an aspiring contributor for GirlScript Summer of Code 2026. Once the program begins, I aim to focus on:
+I am an aspiring contributor for GirlScript Summer of Code 2026.I aim to focus on:
 * Optimized Data Structure and Algorithm implementations (C/Java/Python)
 * **Algorithmic Optimizations:** Improving the time and space complexity of existing code logic and sorting routines.
 * **Data Structure Implementations:** Writing clean, scalable, and idiomatic data structure scripts in C, Java, and Python.
